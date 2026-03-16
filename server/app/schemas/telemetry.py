@@ -18,3 +18,4 @@ class RiskScoreOutput(BaseModel):
     nearby_incident_count: int
     top_threats: List[IncidentDetail] = []
     message: str
+    location_name: str
