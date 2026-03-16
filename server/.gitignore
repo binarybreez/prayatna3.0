@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# FastAPI specific
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test and coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+pytest_cache/
+*.cover
+*.pytest_cache/
+
+# Build
+build/
+dist/
+*.egg-info/
+*.eggs/
+
+# Docker
+*.env
+.env.*
+docker-compose.override.yml
+
+# Static files
+staticfiles/
+media/
