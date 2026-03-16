@@ -1,19 +1,21 @@
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.api.v1.routes import telemetry
+from app.api.v1.routes import telemetry, dashboard
 
 app = FastAPI(title="Rakshak Intelligence API")
 
 # Crucial for allowing your React Native/Next.js apps to connect
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], 
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
 app.include_router(telemetry.router, prefix="/api/v1", tags=["Telemetry"])
+app.include_router(dashboard.router, prefix="/api/v1", tags=["Dashboard"])
+
 
 @app.get("/")
 def health_check():

@@ -62,6 +62,6 @@ if __name__ == "__main__":
         while True:
             generate_mock_incident()
             # Wait 5 seconds before the next incident
-            time.sleep(5) 
+            time.sleep(2) 
     except KeyboardInterrupt:
         print("\n🛑 Chaos Engine halted.")
