@@ -19,3 +19,10 @@ class RiskScoreOutput(BaseModel):
     top_threats: List[IncidentDetail] = []
     message: str
     location_name: str
+
+class AmbulanceTelemetry(BaseModel):
+    ambulance_id: str = Field(..., example="AMB-104")
+    current_lat: float = Field(..., example=22.7196) # e.g., Rajwada
+    current_lng: float = Field(..., example=75.8577)
+    dest_lat: float = Field(..., example=22.7533)  # e.g., Vijay Nagar Hospital
+    dest_lng: float = Field(..., example=75.8937)

@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi import BackgroundTasks
 from app.core.config import supabase
-from app.api.v1.routes import telemetry, dashboard
+from app.api.v1.routes import telemetry, dashboard, emergency
 from datetime import datetime, timedelta
 
 app = FastAPI(title="Rakshak Intelligence API")
@@ -18,6 +18,7 @@ app.add_middleware(
 
 app.include_router(telemetry.router, prefix="/api/v1", tags=["Telemetry"])
 app.include_router(dashboard.router, prefix="/api/v1", tags=["Dashboard"])
+app.include_router(emergency.router, prefix="/api/v1", tags=["Emergency"])
 
 
 # ==========================================
