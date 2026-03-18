@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "Rakshak",
+    "slug": "rakshak",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "scheme": "rakshak",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1152D4"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.urin.rakshak",
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "Rakshak needs your location to show nearby safety information.",
+        "NSLocationAlwaysAndWhenInUseUsageDescription": "Rakshak uses your location to provide real-time safety alerts."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png",
+        "backgroundColor": "#1152D4"
+      },
+      "package": "com.urin.rakshak",
+      "permissions": [
+        "ACCESS_FINE_LOCATION",
+        "ACCESS_COARSE_LOCATION"
+      ],
+      "config": {
+        "googleMaps": {
+          "apiKey": ""
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-font",
+      "expo-location",
+      "expo-localization"
+    ]
+  }
+}

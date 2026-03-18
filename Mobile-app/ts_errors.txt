@@ -1,0 +1,503 @@
+﻿backend/prayatna3.0/admin/adminweb/app/dashboard/page.tsx(1,28): error TS2307: Cannot find module '@/components/app-sidebar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/dashboard/page.tsx(2,38): error TS2307: Cannot find module '@/components/chart-area-interactive' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/dashboard/page.tsx(3,27): error TS2307: Cannot find module '@/components/data-table' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/dashboard/page.tsx(4,30): error TS2307: Cannot find module '@/components/section-cards' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/dashboard/page.tsx(5,28): error TS2307: Cannot find module '@/components/site-header' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/dashboard/page.tsx(6,47): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/layout.tsx(1,31): error TS2307: Cannot find module 'next' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/layout.tsx(2,42): error TS2307: Cannot find module 'next/font/google' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/layout.tsx(4,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/layout.tsx(5,33): error TS2307: Cannot find module '@/components/ui/tooltip' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/layout.tsx(6,23): error TS2307: Cannot find module '@/components/Providers' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/app/page.tsx(1,19): error TS2307: Cannot find module 'next/image' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/app-sidebar.tsx(5,30): error TS2307: Cannot find module '@/components/nav-documents' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/app-sidebar.tsx(6,25): error TS2307: Cannot find module '@/components/nav-main' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/app-sidebar.tsx(7,30): error TS2307: Cannot find module '@/components/nav-secondary' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/app-sidebar.tsx(8,25): error TS2307: Cannot find module '@/components/nav-user' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/app-sidebar.tsx(17,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/app-sidebar.tsx(18,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/app-sidebar.tsx(19,216): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/chart-area-interactive.tsx(4,55): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/chart-area-interactive.tsx(6,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/chart-area-interactive.tsx(14,8): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/chart-area-interactive.tsx(20,8): error TS2307: Cannot find module '@/components/ui/chart' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/chart-area-interactive.tsx(27,8): error TS2307: Cannot find module '@/components/ui/select' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/chart-area-interactive.tsx(31,8): error TS2307: Cannot find module '@/components/ui/toggle-group' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/chart-area-interactive.tsx(250,31): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/chart-area-interactive.tsx(262,36): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(14,8): error TS2307: Cannot find module '@dnd-kit/core' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(15,40): error TS2307: Cannot find module '@dnd-kit/modifiers' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(21,8): error TS2307: Cannot find module '@dnd-kit/sortable' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(22,21): error TS2307: Cannot find module '@dnd-kit/utilities' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(37,8): error TS2307: Cannot find module '@tanstack/react-table' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(38,55): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(39,23): error TS2307: Cannot find module 'sonner' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(40,19): error TS2307: Cannot find module 'zod' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(42,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(43,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(44,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(50,8): error TS2307: Cannot find module '@/components/ui/chart' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(51,26): error TS2307: Cannot find module '@/components/ui/checkbox' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(61,8): error TS2307: Cannot find module '@/components/ui/drawer' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(69,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(70,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(71,23): error TS2307: Cannot find module '@/components/ui/label' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(79,8): error TS2307: Cannot find module '@/components/ui/select' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(80,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(88,8): error TS2307: Cannot find module '@/components/ui/table' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(94,8): error TS2307: Cannot find module '@/components/ui/tabs' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(95,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(96,248): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(132,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(136,16): error TS7031: Binding element 'table' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(143,29): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(148,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(152,29): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(163,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(171,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(182,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(196,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(221,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(246,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(321,35): error TS7006: Parameter 'cell' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(369,16): error TS7006: Parameter 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(444,20): error TS7006: Parameter 'column' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(448,23): error TS7006: Parameter 'column' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(454,41): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(484,47): error TS7006: Parameter 'headerGroup' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(486,47): error TS7006: Parameter 'header' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(507,52): error TS7006: Parameter 'row' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(537,33): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/data-table.tsx(679,37): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/nav-documents.tsx(9,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-documents.tsx(18,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-documents.tsx(19,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-documents.tsx(20,85): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-main.tsx(3,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-main.tsx(10,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-main.tsx(11,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-main.tsx(12,48): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-secondary.tsx(11,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-secondary.tsx(27,23): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/nav-user.tsx(7,8): error TS2307: Cannot find module '@/components/ui/avatar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-user.tsx(16,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-user.tsx(22,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-user.tsx(23,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/nav-user.tsx(24,110): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/section-cards.tsx(3,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/section-cards.tsx(11,8): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/section-cards.tsx(12,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/section-cards.tsx(13,44): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/site-header.tsx(1,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/site-header.tsx(2,32): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/theme-provider.tsx(4,53): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/avatar.tsx(4,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/avatar.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/badge.tsx(2,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/badge.tsx(3,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/badge.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/breadcrumb.tsx(2,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/breadcrumb.tsx(4,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/breadcrumb.tsx(5,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/breadcrumb.tsx(6,62): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/button.tsx(2,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/button.tsx(3,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/button.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/card.tsx(3,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/chart.tsx(4,36): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/chart.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/chart.tsx(183,20): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/ui/chart.tsx(184,17): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/ui/chart.tsx(184,23): error TS7006: Parameter 'index' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/ui/chart.tsx(281,18): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/ui/chart.tsx(282,15): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/ui/checkbox.tsx(4,47): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/checkbox.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/checkbox.tsx(7,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/checkbox.tsx(8,28): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/drawer.tsx(4,43): error TS2307: Cannot find module 'vaul' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/drawer.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/dropdown-menu.tsx(4,55): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/dropdown-menu.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/dropdown-menu.tsx(7,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/dropdown-menu.tsx(8,46): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/input.tsx(3,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/label.tsx(4,41): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/label.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/select.tsx(4,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/select.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/select.tsx(7,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/select.tsx(8,76): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/separator.tsx(4,49): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/separator.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sheet.tsx(4,42): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sheet.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sheet.tsx(7,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sheet.tsx(8,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sheet.tsx(9,30): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(5,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(7,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(8,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(9,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(10,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(11,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(18,8): error TS2307: Cannot find module '@/components/ui/sheet' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(19,26): error TS2307: Cannot find module '@/components/ui/skeleton' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(24,8): error TS2307: Cannot find module '@/components/ui/tooltip' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(25,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(26,33): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sidebar.tsx(268,17): error TS7006: Parameter 'event' implicitly has an 'any' type.
+backend/prayatna3.0/admin/adminweb/components/ui/skeleton.tsx(1,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sonner.tsx(3,26): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sonner.tsx(4,54): error TS2307: Cannot find module 'sonner' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sonner.tsx(5,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/sonner.tsx(6,120): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/table.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/tabs.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/tabs.tsx(5,39): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/tabs.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/theme-toggle.tsx(4,26): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/theme-toggle.tsx(6,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/theme-toggle.tsx(12,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/theme-toggle.tsx(13,31): error TS2307: Cannot find module '@hugeicons/react' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/theme-toggle.tsx(14,39): error TS2307: Cannot find module '@hugeicons/core-free-icons' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/toggle-group.tsx(4,35): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/toggle-group.tsx(5,53): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/toggle-group.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/toggle-group.tsx(8,32): error TS2307: Cannot find module '@/components/ui/toggle' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/toggle.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/toggle.tsx(5,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/toggle.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/tooltip.tsx(4,45): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/components/ui/tooltip.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/lib/utils.ts(1,39): error TS2307: Cannot find module 'clsx' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/lib/utils.ts(2,25): error TS2307: Cannot find module 'tailwind-merge' or its corresponding type declarations.
+backend/prayatna3.0/admin/adminweb/next.config.ts(1,33): error TS2307: Cannot find module 'next' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/dashboard/page.tsx(1,28): error TS2307: Cannot find module '@/components/app-sidebar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/dashboard/page.tsx(2,38): error TS2307: Cannot find module '@/components/chart-area-interactive' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/dashboard/page.tsx(3,27): error TS2307: Cannot find module '@/components/data-table' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/dashboard/page.tsx(4,30): error TS2307: Cannot find module '@/components/section-cards' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/dashboard/page.tsx(5,28): error TS2307: Cannot find module '@/components/site-header' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/dashboard/page.tsx(6,47): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/layout.tsx(1,31): error TS2307: Cannot find module 'next' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/layout.tsx(2,42): error TS2307: Cannot find module 'next/font/google' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/layout.tsx(4,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/layout.tsx(5,33): error TS2307: Cannot find module '@/components/ui/tooltip' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/layout.tsx(6,23): error TS2307: Cannot find module '@/components/Providers' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/page.tsx(1,19): error TS2307: Cannot find module 'next/image' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/app/user/page.tsx(1,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/app-sidebar.tsx(5,30): error TS2307: Cannot find module '@/components/nav-documents' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/app-sidebar.tsx(6,25): error TS2307: Cannot find module '@/components/nav-main' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/app-sidebar.tsx(7,30): error TS2307: Cannot find module '@/components/nav-secondary' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/app-sidebar.tsx(8,25): error TS2307: Cannot find module '@/components/nav-user' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/app-sidebar.tsx(17,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/app-sidebar.tsx(18,211): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/chart-area-interactive.tsx(4,55): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/chart-area-interactive.tsx(6,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/chart-area-interactive.tsx(14,8): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/chart-area-interactive.tsx(20,8): error TS2307: Cannot find module '@/components/ui/chart' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/chart-area-interactive.tsx(27,8): error TS2307: Cannot find module '@/components/ui/select' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/chart-area-interactive.tsx(31,8): error TS2307: Cannot find module '@/components/ui/toggle-group' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/chart-area-interactive.tsx(250,31): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/chart-area-interactive.tsx(262,36): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(14,8): error TS2307: Cannot find module '@dnd-kit/core' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(15,40): error TS2307: Cannot find module '@dnd-kit/modifiers' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(21,8): error TS2307: Cannot find module '@dnd-kit/sortable' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(22,21): error TS2307: Cannot find module '@dnd-kit/utilities' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(37,8): error TS2307: Cannot find module '@tanstack/react-table' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(38,55): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(39,23): error TS2307: Cannot find module 'sonner' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(40,19): error TS2307: Cannot find module 'zod' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(42,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(43,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(44,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(50,8): error TS2307: Cannot find module '@/components/ui/chart' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(51,26): error TS2307: Cannot find module '@/components/ui/checkbox' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(61,8): error TS2307: Cannot find module '@/components/ui/drawer' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(69,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(70,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(71,23): error TS2307: Cannot find module '@/components/ui/label' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(79,8): error TS2307: Cannot find module '@/components/ui/select' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(80,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(88,8): error TS2307: Cannot find module '@/components/ui/table' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(94,8): error TS2307: Cannot find module '@/components/ui/tabs' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(95,214): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(131,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(135,16): error TS7031: Binding element 'table' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(142,29): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(147,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(151,29): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(162,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(170,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(181,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(196,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(221,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(246,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(322,35): error TS7006: Parameter 'cell' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(370,16): error TS7006: Parameter 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(445,20): error TS7006: Parameter 'column' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(449,23): error TS7006: Parameter 'column' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(455,41): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(486,47): error TS7006: Parameter 'headerGroup' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(488,47): error TS7006: Parameter 'header' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(509,52): error TS7006: Parameter 'row' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(539,33): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/data-table.tsx(685,37): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/nav-documents.tsx(9,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-documents.tsx(18,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-documents.tsx(19,71): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-main.tsx(3,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-main.tsx(10,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-main.tsx(11,42): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-secondary.tsx(11,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-secondary.tsx(27,23): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/nav-user.tsx(7,8): error TS2307: Cannot find module '@/components/ui/avatar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-user.tsx(16,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-user.tsx(22,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/nav-user.tsx(23,97): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/section-cards.tsx(3,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/section-cards.tsx(11,8): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/section-cards.tsx(12,50): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/site-header.tsx(1,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/site-header.tsx(2,32): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/theme-provider.tsx(4,53): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/avatar.tsx(4,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/avatar.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/badge.tsx(2,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/badge.tsx(3,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/badge.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/breadcrumb.tsx(2,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/breadcrumb.tsx(4,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/breadcrumb.tsx(5,54): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/button.tsx(2,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/button.tsx(3,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/button.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/card.tsx(3,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/chart.tsx(4,36): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/chart.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/chart.tsx(183,20): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/ui/chart.tsx(184,17): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/ui/chart.tsx(184,23): error TS7006: Parameter 'index' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/ui/chart.tsx(281,18): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/ui/chart.tsx(282,15): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/ui/checkbox.tsx(4,47): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/checkbox.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/checkbox.tsx(7,27): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/drawer.tsx(4,43): error TS2307: Cannot find module 'vaul' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/drawer.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/dropdown-menu.tsx(4,55): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/dropdown-menu.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/dropdown-menu.tsx(7,45): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/input.tsx(3,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/label.tsx(4,41): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/label.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/select.tsx(4,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/select.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/select.tsx(7,59): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/separator.tsx(4,49): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/separator.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sheet.tsx(4,42): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sheet.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sheet.tsx(7,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sheet.tsx(8,23): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(5,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(7,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(8,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(9,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(10,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(11,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(18,8): error TS2307: Cannot find module '@/components/ui/sheet' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(19,26): error TS2307: Cannot find module '@/components/ui/skeleton' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(24,8): error TS2307: Cannot find module '@/components/ui/tooltip' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(25,31): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sidebar.tsx(267,17): error TS7006: Parameter 'event' implicitly has an 'any' type.
+backend/prayatna3.0/user-side/userweb/components/ui/skeleton.tsx(1,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sonner.tsx(3,26): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sonner.tsx(4,54): error TS2307: Cannot find module 'sonner' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/sonner.tsx(5,89): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/table.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/tabs.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/tabs.tsx(5,39): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/tabs.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/theme-toggle.tsx(4,27): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/theme-toggle.tsx(5,26): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/theme-toggle.tsx(7,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/theme-toggle.tsx(13,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/toggle-group.tsx(4,35): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/toggle-group.tsx(5,53): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/toggle-group.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/toggle-group.tsx(8,32): error TS2307: Cannot find module '@/components/ui/toggle' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/toggle.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/toggle.tsx(5,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/toggle.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/tooltip.tsx(4,45): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/components/ui/tooltip.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/lib/utils.ts(1,39): error TS2307: Cannot find module 'clsx' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/lib/utils.ts(2,25): error TS2307: Cannot find module 'tailwind-merge' or its corresponding type declarations.
+backend/prayatna3.0/user-side/userweb/next.config.ts(1,33): error TS2307: Cannot find module 'next' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/dashboard/page.tsx(1,28): error TS2307: Cannot find module '@/components/app-sidebar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/dashboard/page.tsx(2,38): error TS2307: Cannot find module '@/components/chart-area-interactive' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/dashboard/page.tsx(3,27): error TS2307: Cannot find module '@/components/data-table' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/dashboard/page.tsx(4,30): error TS2307: Cannot find module '@/components/section-cards' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/dashboard/page.tsx(5,28): error TS2307: Cannot find module '@/components/site-header' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/dashboard/page.tsx(6,47): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/layout.tsx(1,31): error TS2307: Cannot find module 'next' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/layout.tsx(2,42): error TS2307: Cannot find module 'next/font/google' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/layout.tsx(4,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/layout.tsx(5,33): error TS2307: Cannot find module '@/components/ui/tooltip' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/layout.tsx(6,23): error TS2307: Cannot find module '@/components/Providers' or its corresponding type declarations.
+backend/prayatna3.0/website/website/app/page.tsx(1,19): error TS2307: Cannot find module 'next/image' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/app-sidebar.tsx(5,30): error TS2307: Cannot find module '@/components/nav-documents' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/app-sidebar.tsx(6,25): error TS2307: Cannot find module '@/components/nav-main' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/app-sidebar.tsx(7,30): error TS2307: Cannot find module '@/components/nav-secondary' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/app-sidebar.tsx(8,25): error TS2307: Cannot find module '@/components/nav-user' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/app-sidebar.tsx(17,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/app-sidebar.tsx(18,211): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/chart-area-interactive.tsx(4,55): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/chart-area-interactive.tsx(6,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/chart-area-interactive.tsx(14,8): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/chart-area-interactive.tsx(20,8): error TS2307: Cannot find module '@/components/ui/chart' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/chart-area-interactive.tsx(27,8): error TS2307: Cannot find module '@/components/ui/select' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/chart-area-interactive.tsx(31,8): error TS2307: Cannot find module '@/components/ui/toggle-group' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/chart-area-interactive.tsx(250,31): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/chart-area-interactive.tsx(262,36): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(14,8): error TS2307: Cannot find module '@dnd-kit/core' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(15,40): error TS2307: Cannot find module '@dnd-kit/modifiers' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(21,8): error TS2307: Cannot find module '@dnd-kit/sortable' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(22,21): error TS2307: Cannot find module '@dnd-kit/utilities' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(37,8): error TS2307: Cannot find module '@tanstack/react-table' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(38,55): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(39,23): error TS2307: Cannot find module 'sonner' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(40,19): error TS2307: Cannot find module 'zod' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(42,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(43,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(44,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(50,8): error TS2307: Cannot find module '@/components/ui/chart' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(51,26): error TS2307: Cannot find module '@/components/ui/checkbox' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(61,8): error TS2307: Cannot find module '@/components/ui/drawer' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(69,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(70,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(71,23): error TS2307: Cannot find module '@/components/ui/label' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(79,8): error TS2307: Cannot find module '@/components/ui/select' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(80,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(88,8): error TS2307: Cannot find module '@/components/ui/table' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(94,8): error TS2307: Cannot find module '@/components/ui/tabs' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(95,214): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/data-table.tsx(131,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(135,16): error TS7031: Binding element 'table' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(142,29): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(147,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(151,29): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(162,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(170,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(181,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(196,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(221,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(246,14): error TS7031: Binding element 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(322,35): error TS7006: Parameter 'cell' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(370,16): error TS7006: Parameter 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(445,20): error TS7006: Parameter 'column' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(449,23): error TS7006: Parameter 'column' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(455,41): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(486,47): error TS7006: Parameter 'headerGroup' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(488,47): error TS7006: Parameter 'header' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(509,52): error TS7006: Parameter 'row' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(539,33): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/data-table.tsx(685,37): error TS7006: Parameter 'value' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/nav-documents.tsx(9,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-documents.tsx(18,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-documents.tsx(19,71): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-main.tsx(3,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-main.tsx(10,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-main.tsx(11,42): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-secondary.tsx(11,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-secondary.tsx(27,23): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/nav-user.tsx(7,8): error TS2307: Cannot find module '@/components/ui/avatar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-user.tsx(16,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-user.tsx(22,8): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/nav-user.tsx(23,97): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/section-cards.tsx(3,23): error TS2307: Cannot find module '@/components/ui/badge' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/section-cards.tsx(11,8): error TS2307: Cannot find module '@/components/ui/card' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/section-cards.tsx(12,50): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/site-header.tsx(1,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/site-header.tsx(2,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/site-header.tsx(3,32): error TS2307: Cannot find module '@/components/ui/sidebar' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/theme-provider.tsx(4,53): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/avatar.tsx(4,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/avatar.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/badge.tsx(2,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/badge.tsx(3,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/badge.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/breadcrumb.tsx(2,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/breadcrumb.tsx(4,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/breadcrumb.tsx(5,54): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/button.tsx(2,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/button.tsx(3,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/button.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/card.tsx(3,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/chart.tsx(4,36): error TS2307: Cannot find module 'recharts' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/chart.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/chart.tsx(183,20): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/ui/chart.tsx(184,17): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/ui/chart.tsx(184,23): error TS7006: Parameter 'index' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/ui/chart.tsx(281,18): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/ui/chart.tsx(282,15): error TS7006: Parameter 'item' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/ui/checkbox.tsx(4,47): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/checkbox.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/checkbox.tsx(7,27): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/drawer.tsx(4,43): error TS2307: Cannot find module 'vaul' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/drawer.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/dropdown-menu.tsx(4,55): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/dropdown-menu.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/dropdown-menu.tsx(7,45): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/input.tsx(3,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/label.tsx(4,41): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/label.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/select.tsx(4,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/select.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/select.tsx(7,59): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/separator.tsx(4,49): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/separator.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sheet.tsx(4,42): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sheet.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sheet.tsx(7,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sheet.tsx(8,23): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(5,22): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(7,29): error TS2307: Cannot find module '@/hooks/use-mobile' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(8,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(9,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(10,23): error TS2307: Cannot find module '@/components/ui/input' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(11,27): error TS2307: Cannot find module '@/components/ui/separator' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(18,8): error TS2307: Cannot find module '@/components/ui/sheet' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(19,26): error TS2307: Cannot find module '@/components/ui/skeleton' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(24,8): error TS2307: Cannot find module '@/components/ui/tooltip' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(25,31): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sidebar.tsx(267,17): error TS7006: Parameter 'event' implicitly has an 'any' type.
+backend/prayatna3.0/website/website/components/ui/skeleton.tsx(1,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sonner.tsx(3,26): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sonner.tsx(4,54): error TS2307: Cannot find module 'sonner' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/sonner.tsx(5,89): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/table.tsx(5,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/tabs.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/tabs.tsx(5,39): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/tabs.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/theme-toggle.tsx(4,27): error TS2307: Cannot find module 'lucide-react' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/theme-toggle.tsx(5,26): error TS2307: Cannot find module 'next-themes' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/theme-toggle.tsx(7,24): error TS2307: Cannot find module '@/components/ui/button' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/theme-toggle.tsx(13,8): error TS2307: Cannot find module '@/components/ui/dropdown-menu' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/toggle-group.tsx(4,35): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/toggle-group.tsx(5,53): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/toggle-group.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/toggle-group.tsx(8,32): error TS2307: Cannot find module '@/components/ui/toggle' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/toggle.tsx(4,40): error TS2307: Cannot find module 'class-variance-authority' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/toggle.tsx(5,43): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/toggle.tsx(7,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/tooltip.tsx(4,45): error TS2307: Cannot find module 'radix-ui' or its corresponding type declarations.
+backend/prayatna3.0/website/website/components/ui/tooltip.tsx(6,20): error TS2307: Cannot find module '@/lib/utils' or its corresponding type declarations.
+backend/prayatna3.0/website/website/lib/utils.ts(1,39): error TS2307: Cannot find module 'clsx' or its corresponding type declarations.
+backend/prayatna3.0/website/website/lib/utils.ts(2,25): error TS2307: Cannot find module 'tailwind-merge' or its corresponding type declarations.
+backend/prayatna3.0/website/website/next.config.ts(1,33): error TS2307: Cannot find module 'next' or its corresponding type declarations.
+backend/prayatna3.0/website/website/proxy.ts(1,33): error TS2307: Cannot find module '@clerk/nextjs/server' or its corresponding type declarations.

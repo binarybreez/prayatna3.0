@@ -1,0 +1,126 @@
+{
+  "common": {
+    "appName": "रक्षक",
+    "tagline": "स्मार्ट सिटी सुरक्षा सोबती",
+    "madeInIndia": "भारतात ♥ ने बनवले",
+    "poweredBy": "URIN प्लॅटफॉर्मद्वारे संचालित",
+    "loading": "लोड होत आहे...",
+    "retry": "पुन्हा प्रयत्न करा",
+    "oops": "अरेरे!",
+    "error": "काहीतरी चुकले",
+    "allClear": "सर्व सुरक्षित!",
+    "skip": "वगळा",
+    "next": "पुढे",
+    "selected": "निवडलेले",
+    "version": "रक्षक v1.0.0 • URIN प्लॅटफॉर्म",
+    "networkError": "सर्व्हरशी कनेक्ट होऊ शकले नाही."
+  },
+  "tabs": {
+    "home": "होम",
+    "alerts": "सूचना",
+    "history": "इतिहास",
+    "profile": "प्रोफाइल"
+  },
+  "splash": { "devanagari": "रक्षक", "tagline": "स्मार्ट सिटी सुरक्षा सोबती" },
+  "onboarding": {
+    "slide1Title": "तुमची सुरक्षा,\nआमची प्राथमिकता",
+    "slide1Desc": "शहरात कुठेही तुम्हाला सुरक्षित ठेवण्यासाठी रिअल-टाइम सुरक्षा स्कोअर आणि लाइव ट्रॅकिंग.",
+    "slide2Title": "आत्मविश्वासाने\nनेव्हिगेट करा",
+    "slide2Desc": "तुमच्या दैनंदिन प्रवासासाठी सर्वात सुरक्षित मार्ग शोधा.",
+    "slide3Title": "समुदाय चालित\nसंरक्षण",
+    "slide3Desc": "त्वरित SOS आणि स्थानिक समुदाय सूचना. एकजूट शहर सुरक्षित शहर.",
+    "startExploring": "सुरू करा"
+  },
+  "auth": {
+    "loginTitle": "रक्षक", "loginSubtitle": "भारताचा स्मार्ट सिटी सुरक्षा सोबती.",
+    "mobileNumber": "मोबाइल नंबर", "getOTP": "OTP मिळवा",
+    "termsPrefix": "पुढे जाऊन, तुम्ही आमच्या", "terms": "अटी", "privacy": "गोपनीयता",
+    "secureLogin": "सुरक्षित लॉगिन", "otpSubtitle": "पाठवलेला 6-अंकी कोड टाका",
+    "demoHint": "डेमो मोड: OTP वापरा", "verifyIdentity": "ओळख सत्यापित करा",
+    "didntReceive": "कोड मिळाला नाही?", "resendIn": "पुन्हा पाठवा", "resendOTP": "OTP पुन्हा पाठवा",
+    "invalidPhone": "कृपया 10 अंकी वैध मोबाइल नंबर टाका",
+    "otpFailed": "OTP पाठवता आला नाही.", "invalidOTP": "अवैध OTP",
+    "verifyFailed": "सत्यापन अयशस्वी."
+  },
+  "register": {
+    "title": "प्रोफाइल तयार करा", "subtitle": "तुमचा रक्षक सुरक्षा प्रोफाइल सेट करा.",
+    "fullName": "पूर्ण नाव *", "namePlaceholder": "तुमचे पूर्ण नाव टाका",
+    "age": "वय", "agePlaceholder": "तुमचे वय",
+    "gender": "लिंग", "genderMale": "पुरुष", "genderFemale": "स्त्री", "genderOther": "इतर", "genderSkip": "वगळा",
+    "city": "शहर", "cityPlaceholder": "इंदौर",
+    "email": "ईमेल (वैकल्पिक)", "emailPlaceholder": "your@email.com",
+    "submitButton": "माझे प्रोफाइल सुरक्षित करा",
+    "privacyNote": "तुमचा डेटा एन्क्रिप्ट केला आहे.",
+    "nameError": "नाव किमान 2 अक्षरे असावे", "ageError": "वैध वय टाका (1-120)",
+    "emailError": "वैध ईमेल टाका", "registerFailed": "नोंदणी अयशस्वी."
+  },
+  "home": {
+    "greeting": "नमस्कार, {{name}} 👋", "safetyScore": "सुरक्षा स्कोअर",
+    "areaStatus": "सध्याची क्षेत्र स्थिती", "riskZones": "2 किमीच्या आत घटना",
+    "sos": "SOS", "incidents": "{{count}} सक्रिय", "noScore": "—"
+  },
+  "safety": {
+    "safetyStatus": "सुरक्षा स्थिती", "analyzingArea": "क्षेत्राचे विश्लेषण...",
+    "intelligenceReport": "इंटेलिजेन्स अहवाल", "areaSafetyIndex": "क्षेत्र सुरक्षा निर्देशांक",
+    "basedOnStreams": "{{count}} लाइव डेटा स्ट्रीमवर आधारित",
+    "contributingFactors": "घटना घटक", "liveFeedSync": "लाइव फीड सिंक"
+  },
+  "alerts": {
+    "cityAlerts": "शहर सूचना", "stayAlert": "{{name}}, सतर्क रहा",
+    "allAlerts": "सर्व सूचना", "highRisk": "उच्च तीव्रता", "moderate": "मध्यम", "minorInfo": "किरकोळ",
+    "scanning": "स्थानिक सूचना शोधत आहे...",
+    "noneAll": "इंदौर सुरक्षित आहे.", "noneFiltered": "{{level}} स्तराच्या सूचना नाहीत."
+  },
+  "report": {
+    "title": "घटना अहवाल", "subtitle": "समुदाय सुरक्षित करा",
+    "gpsCoordinates": "सक्रिय GPS निर्देशांक", "acquiringGPS": "GPS लॉक मिळवत आहे...",
+    "locationDenied": "स्थान प्रवेश नाकारला", "live": "लाइव",
+    "selectType": "घटना वर्गीकरण निवडा", "additionalDetails": "अतिरिक्त तपशील (वैकल्पिक)",
+    "descPlaceholder": "काय पाहिले ते सांगा...", "submitReport": "सुरक्षित अहवाल पाठवा",
+    "privacyNote": "डेटा URIN द्वारे एन्क्रिप्ट आहे.",
+    "selectCategory": "श्रेणी निवडा", "selectCategoryMsg": "घटना प्रकार निवडा.",
+    "locationUnavailable": "स्थान उपलब्ध नाही", "locationUnavailableMsg": "GPS शिवाय अहवाल सबमिट करता येत नाही.",
+    "submissionFailed": "सबमिशन अयशस्वी", "submissionFailedMsg": "पुन्हा प्रयत्न करा.",
+    "reportSecured": "अहवाल सुरक्षित", "thankYou": "सतर्क नागरिक असल्याबद्दल धन्यवाद.",
+    "waterlogging": "पाणी साचणे", "waterloggingDesc": "रस्त्यावर पाणी",
+    "trafficAnomaly": "वाहतूक विसंगती", "trafficAnomalyDesc": "असामान्य वाहतूक",
+    "streetLight": "दिवा बंद", "streetLightDesc": "काम न करणारे दिवे",
+    "noise": "आवाज तक्रार", "noiseDesc": "अत्यधिक आवाज",
+    "suspicious": "संशयास्पद क्रियाकलाप", "suspiciousDesc": "संशयास्पद वर्तन"
+  },
+  "nearby": {
+    "title": "स्थानिक रडार", "subtitle": "रक्षक नेटवर्कवरून लाइव फीड",
+    "scanning": "स्कॅन होत आहे...", "eventsDetected": "{{count}} घटना शोधल्या",
+    "liveIntelligence": "जवळ लाइव इंटेलिजेन्स", "noClear": "सक्रिय घटना नाहीत."
+  },
+  "routes": {
+    "analyzingRoutes": "मार्ग विश्लेषण", "scanningPaths": "सुरक्षित मार्ग शोधत आहे...",
+    "routeOptions": "मार्ग पर्याय", "safestRoute": "सर्वात सुरक्षित मार्ग",
+    "fastestRoute": "सर्वात जलद मार्ग", "journeyTimeline": "प्रवास टाइमलाइन",
+    "startNavigation": "लाइव नेव्हिगेशन सुरू करा"
+  },
+  "history": {
+    "travelLog": "प्रवास नोंदी", "userHistory": "{{name}} चा इतिहास",
+    "historyDesc": "प्रवास इतिहास आणि सुरक्षा स्कोअर पहा.",
+    "fetching": "लोड होत आहे...", "noJourneys": "प्रवास नाहीत",
+    "noJourneysMsg": "नेव्हिगेट करायला लागल्यावर इतिहास दिसेल."
+  },
+  "profile": {
+    "myProfile": "माझे प्रोफाइल", "personalDetails": "वैयक्तिक तपशील",
+    "ageYears": "{{age}} वर्षे", "phone": "फोन", "memberSince": "सदस्य तारीख",
+    "emergencyContacts": "आपत्कालीन संपर्क", "addContact": "विश्वासू संपर्क जोडा",
+    "preferences": "प्राधान्ये", "liveLocation": "लाइव स्थान सामायिकरण",
+    "liveLocationDesc": "आपत्कालीन संपर्कांसह सामायिक करा",
+    "safetyAlerts": "सुरक्षा सूचना", "safetyAlertsDesc": "स्थानिक घटनांबद्दल सूचित व्हा",
+    "darkMode": "डार्क मोड", "language": "भाषा", "languageDesc": "पसंतीची भाषा निवडा",
+    "security": "सुरक्षा आणि खाते", "changePin": "PIN बदला",
+    "biometric": "बायोमेट्रिक लॉगिन", "biometricDesc": "FaceID किंवा फिंगरप्रिंट",
+    "privacySettings": "गोपनीयता", "helpSupport": "मदत",
+    "aboutRakshak": "रक्षक बद्दल", "secureLogout": "सुरक्षित लॉगआउट",
+    "hardwareNotSupported": "हार्डवेअर समर्थित नाही",
+    "hardwareNotSupportedMsg": "फिंगरप्रिंट किंवा फेस स्कॅनर नाही.",
+    "notEnrolled": "नोंदणीकृत नाही", "notEnrolledMsg": "प्रथम बायोमेट्रिक्स सेट करा.",
+    "verifyBiometric": "ओळख सत्यापित करा", "biometricEnabled": "सुरक्षित लॉगिन सक्षम",
+    "biometricEnabledMsg": "आता फिंगरप्रिंट किंवा फेस वापरू शकता."
+  }
+}
